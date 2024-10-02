@@ -1,13 +1,17 @@
 # 👋 Hi there!
-With hands-on experience as a data analyst, I’m transitioning into data science, bringing a solid foundation in data-driven problem-solving and AI-driven solutions. At Welocalize and TELUS International, I’ve optimized ad delivery algorithms, improved search engine relevance, and enhanced user engagement through detailed data analysis. Skilled in Python, SQL, and data visualization tools like Tableau and Power BI, I’ve applied machine learning techniques across various projects, including time series forecasting, NLP, and computer vision. I am now focused on leveraging my analytical skills to drive impactful data science solutions that support decision-making and innovation.
+My experience at Welocalize and TELUS International includes optimizing ad delivery algorithms, improving search engine relevance, and enhancing user engagement through advanced data analysis. Skilled in Python, R, SQL, and data visualization tools like Tableau and Power BI, I’ve applied machine learning techniques across projects involving time series forecasting, NLP, and computer vision.
+
+In bioinformatics, I’ve worked with large biological datasets, such as RNA sequencing and gene expression analysis, using tools like Biopython, Seurat, and DESeq2. I’m proficient in cloud platforms (Azure, AWS, GCP) and have contributed to both AI model development and bioinformatics research.
+
+With expertise across both fields, I am seeking opportunities that allow me to leverage my skills in data science/bioinformatics to drive innovation, research, and data-driven decision-making.
 
 ## 🗝️ Skills:
-- Languages: Python, R, SQL
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark, TensorFlow, Pycaret, Streamlit
+- Programming: Python, R, Linux, Bash
+- Database: MySQL, PostgreSQL, Microsoft SQL Server, Google BigQuery
 - Spreadsheets: Microsoft Excel, Google Sheets
 - Visualization: Power BI, Tableau, Looker Studio, Folium, Plotly Dash, Microsoft PowerPoint
-- Developer Tools: Git, VSCode, Jupyter Notebook
-- Core Competencies: Data Analytics, Data Science, Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, Bioinformatics
+- Model Deployment: 
+- Cloud: Amazon Web Services, Microsoft Azure, Google Cloud Platform
 
 ## 🔗 Links:
 - Portfolio Website: [https://www.datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
