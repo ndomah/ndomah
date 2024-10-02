@@ -10,7 +10,7 @@ With expertise across both fields, I am seeking opportunities that allow me to l
 - Database: MySQL, PostgreSQL, Microsoft SQL Server, Google BigQuery
 - Spreadsheets: Microsoft Excel, Google Sheets
 - Visualization: Power BI, Tableau, Looker Studio, Folium, Plotly Dash, Microsoft PowerPoint
-- Model Deployment: 
+- Model Deployment: Streamlit, Flask, FastAPI
 - Cloud: Amazon Web Services, Microsoft Azure, Google Cloud Platform
 
 ## 🔗 Links:
