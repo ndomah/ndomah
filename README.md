@@ -1,18 +1,16 @@
 # 👋 Hi there!
-My experience at Welocalize and TELUS International includes optimizing ad delivery algorithms, improving search engine relevance, and enhancing user engagement through advanced data analysis. Skilled in Python, R, SQL, and data visualization tools like Tableau and Power BI, I’ve applied machine learning techniques across projects involving time series forecasting, NLP, and computer vision.
+Data Engineer transitioning from a strong analytics background, passionate about building scalable data solutions. I combine my proven experience in data analysis with newly acquired engineering skills to bridge the gap between raw data and business insights.
 
-In bioinformatics, I’ve worked with large biological datasets, such as RNA sequencing and gene expression analysis, using tools like Biopython, Seurat, and DESeq2. I’m proficient in cloud platforms (Azure, AWS, GCP) and have contributed to both AI model development and bioinformatics research.
-
-With expertise across both fields, I am seeking opportunities that allow me to leverage my skills in data science/bioinformatics to drive innovation, research, and data-driven decision-making.
+Recently completed intensive training in modern data engineering, encompassing data pipeline development, cloud architectures, and the latest data stack technologies. What sets me apart is my unique perspective – I understand both the technical requirements of robust data engineering and the end-user needs from my analytics experience. I'm eager to apply this combination of skills to build efficient, business-focused data solutions.
 
 ## 🗝️ Skills:
-- Programming: Python, R, Linux, Bash
-- Database: MySQL, PostgreSQL, Microsoft SQL Server, Google BigQuery
-- Spreadsheets: Microsoft Excel, Google Sheets
-- Visualization: Power BI, Tableau, Looker Studio, Folium, Plotly Dash, Microsoft PowerPoint
-- Model Deployment: Streamlit, Flask, FastAPI
-- Cloud: Amazon Web Services, Microsoft Azure, Google Cloud Platform
+- Data Engineering & ETL: Python, Git, Apache Airflow, Apache Kafka, ETL/ELT Pipeline Development, Docker containerization
+- Cloud & Data Warehouse: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Snowflake, Modern Data Warehousing, Data Lakes, data build tool (dbt)
+- Databases & Data Modeling: SQL, MongoDB, Elasticsearch, Dimensional Data Modeling, Relational Data Modeling
+- Big Data Technologies: Apache Spark, Hadoop, Databricks, Stream Processing
+- Data Visualization & BI: Tableau, Power BI, Looker Studio, Streamlit
 
 ## 🔗 Links:
 - Portfolio Website: [https://www.datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
 - LinkedIn: [https://www.linkedin.com/in/nileshdomah/](https://www.linkedin.com/in/nileshdomah/)
+- Medium: [https://medium.com/@n.domah.01](https://medium.com/@n.domah.01)
