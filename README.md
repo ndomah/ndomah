@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Data Engineer transitioning from a strong analytics background, passionate about building scalable data solutions. I combine my proven experience in data analysis with newly acquired engineering skills to bridge the gap between raw data and business insights.
+I am a Data Engineer transitioning from a strong analytics background, passionate about building scalable data solutions. I combine my proven experience in data analysis with newly acquired engineering skills to bridge the gap between raw data and business insights.
 
 Recently completed intensive training in modern data engineering, encompassing data pipeline development, cloud architectures, and the latest data stack technologies. What sets me apart is my unique perspective – I understand both the technical requirements of robust data engineering and the end-user needs from my analytics experience. I'm eager to apply this combination of skills to build efficient, business-focused data solutions.
 
