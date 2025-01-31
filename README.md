@@ -7,7 +7,7 @@ Recently completed intensive training in modern data engineering, encompassing d
 - **Data Engineering & ETL**: Python, Linux/Bash, Git, Apache Airflow, Apache Kafka, ETL/ELT Pipeline Development, Docker containerization
 - **Cloud & Data Warehouse**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Snowflake, Modern Data Warehousing, Data Lakes, data build tool (dbt)
 - **Databases & Data Modeling**: SQL, MongoDB, Elasticsearch, Dimensional Data Modeling, Relational Data Modeling
-- **Big Data Technologies**: Apache Spark, Hadoop, Databricks, Stream Processing
+- **Big Data Technologies**: Apache Spark, Hadoop, Stream Processing
 - **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Streamlit
 
 ## 🔗 Links:
