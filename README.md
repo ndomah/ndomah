@@ -4,12 +4,12 @@ I’m a Data Engineer/Analyst with hands-on experience building scalable data pi
 Whether it’s orchestrating end-to-end data solutions, designing dashboards for decision-makers, or architecting real-time pipelines, I’m driven by a passion for turning raw data into tangible value. I’m excited to leverage my growing skill set and collaborate on innovative projects that impact both business outcomes and the broader data community.
 
 # ⚙️Skills:
-- Programming, Scripting, & Tools: Python, SQL, Linux/Bash, Git, Docker, VSCode
-- Data Engineering & Big Data Tools: dbt, Airflow, Kafka, Spark, Cassandra, Zookeeper, Databricks
-- Cloud Platforms & Databases: AWS, Azure, GCP, Snowflake, MongoDB, Elasticsearch
-- Analytics & Visualization: Tableau, Power BI, Looker Studio, QuickSight
+- **Programming, Scripting, & Tools:** Python, SQL, Linux/Bash, Git, Docker, VSCode
+- **Data Engineering & Big Data Tools:** dbt, Airflow, Kafka, Spark, Cassandra, Zookeeper, Databricks
+- **Cloud Platforms & Databases:** AWS, Azure, GCP, Snowflake, MongoDB, Elasticsearch
+- **Analytics & Visualization:** Tableau, Power BI, Looker Studio, QuickSight
 
 # 🔗Links:
-- Portfolio Website: [datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
-- GitHub: [github.com/ndomah](https://www.github.com/ndomah)
-- Medium:  [medium.com/@n.domah.01](https://www.medium.com/@n.domah.01)
+- **Portfolio Website:** [datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
+- **LinkedIn:** [linkedin.com/in/nileshdomah](https://www.linkedin.com/in/nileshdomah)
+- **Medium:**  [medium.com/@n.domah.01](https://www.medium.com/@n.domah.01)
