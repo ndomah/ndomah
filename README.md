@@ -10,6 +10,6 @@ Whether it’s orchestrating end-to-end data solutions, designing dashboards for
 - Analytics & Visualization: Tableau, Power BI, Looker Studio, QuickSight
 
 # 🔗Links:
-- Portfolio Website: [datascienceportfol.io/ndomah](www.datascienceportfol.io/ndomah)
+- Portfolio Website: [datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
 - GitHub: [github.com/ndomah](www.github.com/ndomah)
 - Medium:  [medium.com/@n.domah.01](www.medium.com/@n.domah.01)
