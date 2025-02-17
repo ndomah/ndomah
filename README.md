@@ -11,5 +11,5 @@ Whether it’s orchestrating end-to-end data solutions, designing dashboards for
 
 # 🔗Links:
 - Portfolio Website: [datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
-- GitHub: [github.com/ndomah](www.github.com/ndomah)
-- Medium:  [medium.com/@n.domah.01](www.medium.com/@n.domah.01)
+- GitHub: [github.com/ndomah](https://www.github.com/ndomah)
+- Medium:  [medium.com/@n.domah.01](https://www.medium.com/@n.domah.01)
