@@ -1,16 +1,15 @@
-# 👋 Hi there!
-I am a Data Engineer transitioning from a strong analytics background, passionate about building scalable data solutions. I combine my proven experience in data analysis with newly acquired engineering skills to bridge the gap between raw data and business insights.
+# 👋Hi there!
+I’m a Data Engineer/Analyst with hands-on experience building scalable data pipelines in AWS, Azure, and real-time streaming platforms. Proficient in Python, SQL, and a range of modern data analytics, science, and engineering tools. I thrive on delivering actionable insights and optimized workflows to help organizations make informed decisions. I’ve honed my expertise through professional roles and personal projects, continuously upskilling by writing technical blog posts and pursuing a remote part-time MS in Computer Science. 
 
-Recently completed intensive training in modern data engineering, encompassing data pipeline development, cloud architectures, and the latest data stack technologies. What sets me apart is my unique perspective – I understand both the technical requirements of robust data engineering and the end-user needs from my analytics experience. I'm eager to apply this combination of skills to build efficient, business-focused data solutions.
+Whether it’s orchestrating end-to-end data solutions, designing dashboards for decision-makers, or architecting real-time pipelines, I’m driven by a passion for turning raw data into tangible value. I’m excited to leverage my growing skill set and collaborate on innovative projects that impact both business outcomes and the broader data community.
 
-## 🗝️ Skills:
-- **Data Engineering & ETL**: Python, Linux/Bash, Git, Apache Airflow, Apache Kafka, ETL/ELT Pipeline Development, Docker containerization
-- **Cloud & Data Warehouse**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Snowflake, Modern Data Warehousing, Data Lakes, data build tool (dbt)
-- **Databases & Data Modeling**: SQL, MongoDB, Elasticsearch, Dimensional Data Modeling, Relational Data Modeling
-- **Big Data Technologies**: Apache Spark, Stream Processing
-- **Data Visualization & BI**: Tableau, Power BI, Looker Studio, Streamlit
+# ⚙️Skills:
+- Programming, Scripting, & Tools: Python, SQL, Linux/Bash, Git, Docker, VSCode
+- Data Engineering & Big Data Tools: dbt, Airflow, Kafka, Spark, Cassandra, Zookeeper, Databricks
+- Cloud Platforms & Databases: AWS, Azure, GCP, Snowflake, MongoDB, Elasticsearch
+- Analytics & Visualization: Tableau, Power BI, Looker Studio, QuickSight
 
-## 🔗 Links:
-- Portfolio Website: [https://www.datascienceportfol.io/ndomah](https://www.datascienceportfol.io/ndomah)
-- LinkedIn: [https://www.linkedin.com/in/nileshdomah/](https://www.linkedin.com/in/nileshdomah/)
-- Medium: [https://medium.com/@n.domah.01](https://medium.com/@n.domah.01)
+# 🔗Links:
+- Portfolio Website: [datascienceportfol.io/ndomah](datascienceportfol.io/ndomah)
+- GitHub: [github.com/ndomah](github.com/ndomah)
+- Medium:  [medium.com/@n.domah.01](medium.com/@n.domah.01)
